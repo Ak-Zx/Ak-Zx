@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Ak-Zx/Ak-Zx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a college student with an interest in Data Science.
 
-Here are some ideas to get you started:
+I am currently learning Python and exploring the fundamentals of data analysis and statistics.  
+I enjoy solving problems, working with data, and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Tools
+- Python (learning)
+- Git
+- GitHub
+- VS Code
+
+### 🌱 Currently Learning
+- Python programming
+- Data analysis fundamentals
+- Basic statistics
+
+### 🔗 Profiles
+- [LeetCode](https://leetcode.com/u/Akash1430/) 
