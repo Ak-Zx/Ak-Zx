@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-I'm a college student with an interest in Data Science.
+I'm a second-year college student aspiring to become a Software Development Engineer.
 
-I am currently learning Python and exploring the fundamentals of data analysis and statistics.  
-I enjoy solving problems, working with data, and continuously improving my technical skills.
+I am currently focused on strengthening my foundations in Python and Data Structures & Algorithms, while also exploring Data Science concepts to build a broader understanding of data-driven systems.
 
 ### 🔧 Skills & Tools
 <p align="left">
@@ -14,9 +13,10 @@ I enjoy solving problems, working with data, and continuously improving my techn
 </p>
 
 ### 🌱 Currently Learning
-- Python programming  
-- Data analysis fundamentals  
-- Basic statistics  
+- Problem-solving using Python
+- Core DSA concepts
+- Basics of Data Science (Pandas, NumPy)
+ 
 
 ### 🔗 Profiles
 - [LeetCode](https://leetcode.com/u/Akash1430/) 
