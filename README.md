@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-I'm a second-year college student aspiring to become a Software Development Engineer.
+I am a second-year AI & Data Science student interested in building data-driven solutions.
 
-I am currently focused on strengthening my foundations in Python and Data Structures & Algorithms, while also exploring Data Science concepts to build a broader understanding of data-driven systems.
+Currently, I am strengthening my fundamentals in Python and Data Structures & Algorithms while learning core Data Science concepts such as data analysis using Pandas and NumPy.
+
+I enjoy working with datasets, exploring insights, and building small projects to improve my problem-solving skills.
+
 
 ### 🔧 Skills & Tools
 <p align="left">
@@ -13,9 +16,10 @@ I am currently focused on strengthening my foundations in Python and Data Struct
 </p>
 
 ### 🌱 Currently Learning
-- Problem-solving using Python
-- Core DSA concepts
-- Basics of Data Science (Pandas, NumPy)
+- Python problem solving  
+- Data Structures & Algorithms  
+- Data Analysis (Pandas, NumPy)  
+- Basics of Machine Learning  
  
 
 ### 🔗 Profiles
