@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a second-year AI & Data Science student interested in building data-driven solutions.
+I am a pre-final year AI & Data Science student interested in building data-driven solutions.
 
 Currently, I am strengthening my fundamentals in Python and Data Structures & Algorithms while learning core Data Science concepts such as data analysis using Pandas and NumPy.
 
