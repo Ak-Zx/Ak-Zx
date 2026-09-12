@@ -24,5 +24,5 @@ I enjoy working with datasets, exploring insights, and building small projects t
 
 ### 🔗 Profiles
 - [LeetCode](https://leetcode.com/u/Akash1430/)
-- [Linkedin](www.linkedin.com/in/akash1430)
+
 
